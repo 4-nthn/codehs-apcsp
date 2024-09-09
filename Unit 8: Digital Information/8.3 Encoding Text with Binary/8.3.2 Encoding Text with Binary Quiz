@@ -1,0 +1,36 @@
+Q1:
+How many bits are used to encode a character according to the ASCII encoding scheme?
+
+
+
+2 bits
+(ex: 10 encodes ‘A’)
+
+
+4 bits
+(ex: 1011 encodes ‘A’)
+
+
+6 bits
+(ex: 10 0110 encodes ‘A’)
+
+Correct Answer
+8 bits
+(ex: 0100 0001 encodes ‘A’)
+
+
+Q2:
+How many possible values can be created with only 2 bits?
+
+
+Correct Answer
+4
+
+
+2
+
+
+11
+
+
+3
